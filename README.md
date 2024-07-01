@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/bhoyarjagruti07/Java/tree/master/0898-transpose-matrix) |
+| [1293-three-consecutive-odds](https://github.com/bhoyarjagruti07/Java/tree/master/1293-three-consecutive-odds) |
 ## Matrix
 |  |
 | ------- |
