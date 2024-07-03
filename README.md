@@ -8,14 +8,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/bhoyarjagruti07/Java/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/bhoyarjagruti07/Java/tree/master/0898-transpose-matrix) |
 | [1293-three-consecutive-odds](https://github.com/bhoyarjagruti07/Java/tree/master/1293-three-consecutive-odds) |
 ## Matrix
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/bhoyarjagruti07/Java/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/bhoyarjagruti07/Java/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/bhoyarjagruti07/Java/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/bhoyarjagruti07/Java/tree/master/0898-transpose-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/bhoyarjagruti07/Java/tree/master/0861-flipping-an-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/bhoyarjagruti07/Java/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
