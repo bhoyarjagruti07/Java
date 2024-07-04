@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/bhoyarjagruti07/Java/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/bhoyarjagruti07/Java/tree/master/0898-transpose-matrix) |
 | [2232-adding-spaces-to-a-string](https://github.com/bhoyarjagruti07/Java/tree/master/2232-adding-spaces-to-a-string) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/bhoyarjagruti07/Java/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bhoyarjagruti07/Java/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/bhoyarjagruti07/Java/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
