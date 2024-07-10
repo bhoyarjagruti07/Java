@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/bhoyarjagruti07/Java/tree/master/0058-length-of-last-word) |
+| [1720-crawler-log-folder](https://github.com/bhoyarjagruti07/Java/tree/master/1720-crawler-log-folder) |
 | [2232-adding-spaces-to-a-string](https://github.com/bhoyarjagruti07/Java/tree/master/2232-adding-spaces-to-a-string) |
 ## Array
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/bhoyarjagruti07/Java/tree/master/0898-transpose-matrix) |
 | [1293-three-consecutive-odds](https://github.com/bhoyarjagruti07/Java/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bhoyarjagruti07/Java/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/bhoyarjagruti07/Java/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/bhoyarjagruti07/Java/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhoyarjagruti07/Java/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/bhoyarjagruti07/Java/tree/master/2232-adding-spaces-to-a-string) |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhoyarjagruti07/Java/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/bhoyarjagruti07/Java/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
