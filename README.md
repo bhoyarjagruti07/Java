@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/bhoyarjagruti07/Java/tree/master/0058-length-of-last-word) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhoyarjagruti07/Java/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/bhoyarjagruti07/Java/tree/master/1720-crawler-log-folder) |
 | [2232-adding-spaces-to-a-string](https://github.com/bhoyarjagruti07/Java/tree/master/2232-adding-spaces-to-a-string) |
 ## Array
@@ -73,5 +74,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhoyarjagruti07/Java/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/bhoyarjagruti07/Java/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
