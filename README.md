@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/bhoyarjagruti07/Java/tree/master/0058-length-of-last-word) |
+| [0726-number-of-atoms](https://github.com/bhoyarjagruti07/Java/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhoyarjagruti07/Java/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/bhoyarjagruti07/Java/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bhoyarjagruti07/Java/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/bhoyarjagruti07/Java/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bhoyarjagruti07/Java/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/bhoyarjagruti07/Java/tree/master/2846-robot-collisions) |
 ## Linked List
@@ -81,8 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/bhoyarjagruti07/Java/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhoyarjagruti07/Java/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/bhoyarjagruti07/Java/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bhoyarjagruti07/Java/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/bhoyarjagruti07/Java/tree/master/2846-robot-collisions) |
+## Hash Table
+|  |
+| ------- |
+| [0726-number-of-atoms](https://github.com/bhoyarjagruti07/Java/tree/master/0726-number-of-atoms) |
 <!---LeetCode Topics End-->
