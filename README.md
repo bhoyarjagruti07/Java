@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/bhoyarjagruti07/Java/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhoyarjagruti07/Java/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/bhoyarjagruti07/Java/tree/master/2232-adding-spaces-to-a-string) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/bhoyarjagruti07/Java/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/bhoyarjagruti07/Java/tree/master/2846-robot-collisions) |
 ## Matrix
 |  |
@@ -92,4 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/bhoyarjagruti07/Java/tree/master/0726-number-of-atoms) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/bhoyarjagruti07/Java/tree/master/2306-create-binary-tree-from-descriptions) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/bhoyarjagruti07/Java/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/bhoyarjagruti07/Java/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
