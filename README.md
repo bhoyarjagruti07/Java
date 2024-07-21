@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhoyarjagruti07/Java/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/bhoyarjagruti07/Java/tree/master/2232-adding-spaces-to-a-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhoyarjagruti07/Java/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2472-build-a-matrix-with-conditions](https://github.com/bhoyarjagruti07/Java/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/bhoyarjagruti07/Java/tree/master/2846-robot-collisions) |
 ## Matrix
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/bhoyarjagruti07/Java/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bhoyarjagruti07/Java/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/bhoyarjagruti07/Java/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/bhoyarjagruti07/Java/tree/master/2472-build-a-matrix-with-conditions) |
 ## Simulation
 |  |
 | ------- |
@@ -122,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/bhoyarjagruti07/Java/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/bhoyarjagruti07/Java/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bhoyarjagruti07/Java/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Graph
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/bhoyarjagruti07/Java/tree/master/2472-build-a-matrix-with-conditions) |
+## Topological Sort
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/bhoyarjagruti07/Java/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
