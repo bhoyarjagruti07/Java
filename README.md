@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/bhoyarjagruti07/Java/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bhoyarjagruti07/Java/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/bhoyarjagruti07/Java/tree/master/2232-adding-spaces-to-a-string) |
+| [2502-sort-the-people](https://github.com/bhoyarjagruti07/Java/tree/master/2502-sort-the-people) |
 ## Array
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/bhoyarjagruti07/Java/tree/master/2232-adding-spaces-to-a-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhoyarjagruti07/Java/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/bhoyarjagruti07/Java/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/bhoyarjagruti07/Java/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/bhoyarjagruti07/Java/tree/master/2846-robot-collisions) |
 ## Matrix
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0726-number-of-atoms](https://github.com/bhoyarjagruti07/Java/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bhoyarjagruti07/Java/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2502-sort-the-people](https://github.com/bhoyarjagruti07/Java/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/bhoyarjagruti07/Java/tree/master/2846-robot-collisions) |
 ## Linked List
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/bhoyarjagruti07/Java/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhoyarjagruti07/Java/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhoyarjagruti07/Java/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/bhoyarjagruti07/Java/tree/master/2502-sort-the-people) |
 ## Tree
 |  |
 | ------- |
